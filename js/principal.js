@@ -13,5 +13,4 @@ form.addEventListener('submit', (event) => {
     inputName.value = '';
     textComment.value = '';
     inputName.focus();
-
 });
